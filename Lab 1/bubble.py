@@ -3,7 +3,6 @@ def main():
     n = int(input("Enter the number of elements in the array: "))
 
     arr = []
-    
     # Input the elements of the array
     print("Enter the elements of the array:")
     for _ in range(n):
